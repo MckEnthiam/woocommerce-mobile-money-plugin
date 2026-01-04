@@ -18,6 +18,5 @@ Woocommerce payment plugin for mobile money payment.
 <a href = "https://github.com/nehemiekoffi/woocommerce-mobile-money-plugin/contributors">
   <img src = "https://contrib.rocks/image?repo=nehemiekoffi/woocommerce-mobile-money-plugin"/>
 </a>
-<a href = "https://github.com/MckEnthiam/">
-  <img src = "https://avatars.githubusercontent.com/u/237474827?v=4" with=100px, style=broder-raduis: 400px, >
+<a href = "https://github.com/MckEnthiam/">/_\
 </a>
